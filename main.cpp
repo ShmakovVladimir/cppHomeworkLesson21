@@ -12,6 +12,11 @@ int anotherFunc()
     return 0;
 }
 
+void newFunction()
+{
+    std::cout<<"new function added"<<std::endl;
+}
+
 int main()
 {
     std::cout<<"Hello, world!"<<std::endl;
