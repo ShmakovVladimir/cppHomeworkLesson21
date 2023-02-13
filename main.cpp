@@ -6,7 +6,11 @@ int someFunc()
     return 5;
 }
 
-
+int anotherFunc()
+{
+    std::cout<<"another function worked"<<std::endl;
+    return 0;
+}
 
 int main()
 {
