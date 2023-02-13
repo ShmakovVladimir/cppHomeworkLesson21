@@ -1,5 +1,10 @@
 #include <iostream>
 
+int someFunc()
+{
+    std::cout<<"some function worked"<<std::endl;
+    return 5;
+}
 
 
 
