@@ -17,6 +17,11 @@ void newFunction()
     std::cout<<"new function added"<<std::endl;
 }
 
+void newBranchFunc()
+{
+    std::cout<<"new branch function"<<std::endl;
+}
+
 int main()
 {
     std::cout<<"Hello, world!"<<std::endl;
